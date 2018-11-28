@@ -9,6 +9,10 @@
   ],
   "author": "WangGanxin",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangGanxin/react-native-loading-layout.git"
+  },
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
