@@ -65,6 +65,10 @@ export default class App extends PureComponent<Props> {
           status={this.state.loadingStatus}
           clickable={true}
           color={'blue'}
+          loadingText={'加载中...'}
+          emptyText={'暂无数据'}
+          errorText={'出错了'}
+          noNetworkText={'没有网络'}
           onClick={() => this._onPressReload()}/>
 
         <View style={styles.content}>
