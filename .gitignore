@@ -63,5 +63,6 @@ loading-layout-demo.gif
 .buckconfig
 .watchmanconfig
 yarn.lock
+.flowconfig
 node_modules/
 node_modules
