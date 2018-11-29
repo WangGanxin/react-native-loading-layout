@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading-layout",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a simple loadinglayout for react native",
   "main": "LoadingLayout.js",
   "keywords": [
