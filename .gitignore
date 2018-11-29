@@ -63,3 +63,5 @@ loading-layout-demo.gif
 .buckconfig
 .watchmanconfig
 yarn.lock
+node_modules/
+node_modules
