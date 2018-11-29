@@ -3,7 +3,7 @@ a simple loadinglayout for react native.
 
 ### Sample 
 
-![loading-layout](https://www.npmjs.com/package/react-native-loading-layout/loading-layout-demo.png)
+![loading-layout](./loading-layout-demo.gif)
 
 ### Usage 
 
